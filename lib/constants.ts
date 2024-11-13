@@ -7,7 +7,7 @@ export const GROQ_MODELS = [
   {
     id: 'gemma2-9b-it',
     name: 'Gemma 9B-IT',
-    description: 'Google's instruction-tuned model',
+    description: 'Google\'s instruction-tuned model',
   },
   {
     id: 'gemma-7b-it',
